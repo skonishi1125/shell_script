@@ -1,0 +1,29 @@
+  PID TTY           TIME CMD
+ 1631 ttys000    0:00.40 -zsh
+29585 ttys000    0:00.04 ssh go2-stg
+ 1677 ttys001    0:00.19 -zsh
+88716 ttys001    0:00.04 ssh go2admin-stg
+ 1714 ttys002    0:00.57 -zsh
+ 1867 ttys003    0:00.13 -zsh
+66453 ttys003    0:26.13 docker compose exec ec2 bash
+66463 ttys003    0:21.59 /usr/local/bin/com.docker.cli compose exec ec2 bash
+66466 ttys003    0:17.12 /usr/local/lib/docker/cli-plugins/docker-compose compose exec ec2 bash
+ 1792 ttys004    0:00.10 -zsh
+ 2829 ttys004    0:57.64 docker compose exec go2senkyo bash
+ 2832 ttys004    0:48.45 /usr/local/bin/com.docker.cli compose exec go2senkyo bash
+ 2834 ttys004    0:39.41 /usr/local/lib/docker/cli-plugins/docker-compose compose exec go2senkyo bash
+ 1829 ttys005    0:00.16 -zsh
+66319 ttys005    0:26.01 docker compose exec deployer bash
+66323 ttys005    0:21.02 /usr/local/bin/com.docker.cli compose exec deployer bash
+66325 ttys005    0:16.55 /usr/local/lib/docker/cli-plugins/docker-compose compose exec deployer bash
+ 1905 ttys006    0:00.12 -zsh
+ 1943 ttys007    0:00.09 -zsh
+ 1980 ttys008    0:00.10 -zsh
+ 2018 ttys009    0:00.17 -zsh
+20097 ttys009    0:57.18 docker compose exec open bash
+20100 ttys009    0:46.95 /usr/local/bin/com.docker.cli compose exec open bash
+20102 ttys009    0:39.27 /usr/local/lib/docker/cli-plugins/docker-compose compose exec open bash
+74406 ttys010    0:03.11 -zsh
+82807 ttys011    0:00.16 -zsh
+27561 ttys012    0:00.95 -zsh
+33149 ttys012    0:00.13 bash

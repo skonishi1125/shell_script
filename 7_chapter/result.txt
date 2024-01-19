@@ -1,0 +1,11 @@
+2024-01-15
+-------- /usr list --------
+X11
+X11R6
+bin
+lib
+libexec
+local
+sbin
+share
+standalone
